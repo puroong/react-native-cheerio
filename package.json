@@ -44,5 +44,6 @@
   },
   "scripts": {
     "test": "make test"
-  }
+  },
+  "typeRoots": ["./index.d.ts"]
 }
